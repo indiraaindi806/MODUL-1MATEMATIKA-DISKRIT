@@ -11,18 +11,18 @@ Tujuan penulisan repository ini adalah untuk menerapkan logika Boolean menggunak
 
 
 # STUDI KASUS
-  -seleksi beasiswa
-  -akses masuk perpustakaan
-  -mengikuti ujian 
-  -masuk laboratorium 
-  -mendapat sertifikat 
-  -login sistem 
-  -pilihan program studi
-  -jenis pembayaran
+  - seleksi beasiswa
+  - akses masuk perpustakaan
+  - mengikuti ujian 
+  - masuk laboratorium 
+  - mendapat sertifikat 
+  - login sistem 
+  - pilihan program studi
+  - jenis pembayaran
 
 
 # ALUR MATERI 
 BOOLEAN
-   -AND
-   -OR
-   -XOR
+   - AND
+   - OR
+   - XOR
